@@ -1,0 +1,9 @@
+export const API_URL = "http://api.unsplash.com";
+export const API_URL_PHOTOS = `${API_URL}/photos`;
+export const API_URL_TOKEN = "https://unsplash.com/oauth/token";
+export const API_URL_AUTH = "https://unsplash.com/oauth/authorize";
+export const ACCESS_KEY = "qUOfRIJ1obX6c8kHYpxT4dRD3JxnGIRdnQpKyCvGqOs";
+export const SECRET_KEY = "3W46szg1mF_iKQyx7GL7srNiWNf0_UKrInHlWPKuxpo";
+export const REDIRECT_URI = "http://127.0.0.1:5500/";
+export const RESPONSE_TYPE = "code";
+export const SCOPE = "public read_user read_photos write_likes";
